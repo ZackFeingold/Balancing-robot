@@ -75,4 +75,6 @@ If I continued the project, I would look at:
 - cleaner code modularisation
 - logging angle and control data for quantitative tuning
 
+[Video](https://youtube.com/shorts/VkTLqgiC5PM)
+
 - ![Image of the robot](<Image 1.jpg>)
